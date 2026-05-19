@@ -1,28 +1,21 @@
 🏥 Healthcare Analytics Dashboard
 
-Interactive Power BI dashboard for analyzing healthcare data, including patient records, medical conditions, hospital performance, and financial insights.
+An interactive Power BI dashboard designed to analyze healthcare data, including patient records, hospital performance, medical conditions, and financial insights. The project helps stakeholders make data-driven decisions to improve healthcare efficiency, cost management, and patient outcomes.
 
-🧰 Tools Used
+🧰 Tools & Technologies
 Microsoft Power BI
 Excel
-DAX
+DAX (Data Analysis Expressions)
 Power Query
-📊 Features
-Patient Demographics Analysis
-Medical Conditions Insights
-Hospital Performance Tracking
-Financial (Billing) Analysis
-Insurance Provider Analysis
-Doctor Performance Evaluation
-Admission Type Distribution
-Monthly Trends Analysis
-📷 Dashboard Preview
-
-📁 Project Files
-Dataset (Excel)
-Power BI Dashboard (.pbix)
-Dashboard Screenshots
-README Documentation
+📊 Dashboard Features
+👥 Patient Demographics Analysis
+🏥 Medical Conditions Insights
+🏨 Hospital Performance Tracking
+💰 Financial (Billing & Revenue) Analysis
+🛡️ Insurance Provider Analysis
+👨‍⚕️ Doctor Performance Evaluation
+🚑 Admission Type Distribution (Emergency / Elective / Urgent)
+📈 Monthly Trends Analysis
 📈 Key Insights
 Emergency admissions represent a major portion of hospital visits.
 Certain medical conditions generate significantly higher billing amounts.
@@ -31,9 +24,22 @@ Hospital and doctor performance varies significantly across categories.
 Patient demographics strongly influence healthcare trends.
 🎯 Project Goals
 Analyze healthcare data efficiently
-Identify cost and performance patterns
+Identify cost, performance, and operational patterns
 Improve hospital decision-making
 Build interactive dashboards for stakeholders
+📁 Project Structure
+
+📦 Healthcare-Analytics-Dashboard
+┣ 📊 Dataset (Excel)
+┣ 📈 Power BI Dashboard (.pbix)
+┣ 🖼️ Dashboard Screenshots
+┣ 📄 README.md
+
+📷 Dashboard Preview
+
+Add your dashboard screenshots here
+
+
 👨‍💻 Author
 
 Mohamed Hamed
